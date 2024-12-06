@@ -1,0 +1,15 @@
+tiktoken
+chromadb
+langchain
+flask
+GitPython
+python-dotenv
+openai
+ipykernel
+langchain_community
+langchain_openai
+langchain_experimental
+langchain_groq
+sentence_transformers
+# -e .
+
